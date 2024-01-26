@@ -1,0 +1,5 @@
+[0125/001324.034:ERROR:cache_util_win.cc(20)] Unable to move the cache: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0125/001324.034:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/qinqihao/AppData/Local/Pal/Saved/webcache_4430\Cache to C:/Users/qinqihao/AppData/Local/Pal/Saved/webcache_4430\old_Cache_000
+[0125/001324.034:ERROR:disk_cache.cc(184)] Unable to create cache
+[0125/001333.140:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0125/001437.113:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 17
